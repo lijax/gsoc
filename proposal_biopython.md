@@ -38,7 +38,6 @@ Biopython is a set of open source python packages and modules for bioinformatics
 - Implement consensus tree search functions of multiple trees. Phylip like majority-rule consensus tree, Adams consensus.
 - Implement branch support calculation functions given a target tree and a list of bootstrap replicate trees.
 - Implement a bootstrap method for a given alignment and provide two interface methods to generate a tree list and construct a consensus tree(given the parameters of treeMethod, consensusMethod and bootstrapTime).
-- Implement SH test for multiple tree comparisons.
 - Implement visualization functions for circular rooted tree and radial unrooted tree.
 
 ### Project Timeline
